@@ -12,7 +12,7 @@ const uint8_t ENABLE_PIN = 8;
 const uint8_t X_MIN_PIN = 9;
 const uint8_t Y_MIN_PIN = 10;
 
-const uint8_t PEN_SERVO_PIN = 11;
+const uint8_t PEN_SERVO_PIN = 12;
 
 const float STEPS_PER_MM_X = 80.0;
 const float STEPS_PER_MM_Y = 80.0;

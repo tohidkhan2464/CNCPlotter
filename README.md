@@ -6,6 +6,7 @@ End-to-end student-friendly CNC pen plotter project using:
 - Serial sender to stream G-code to the controller.
 
 This repository follows the structure and workflow in:
+- **[GUIDE.md](GUIDE.md) — Complete Step-by-Step Operator Guidebook & Precautions**
 - [cnc-plotter-arduino-code-structure.md](cnc-plotter-arduino-code-structure.md)
 - [cnc-plotter-python-file-to-gcode-pipeline.md](cnc-plotter-python-file-to-gcode-pipeline.md)
 - [cnc-plotter-project-folder-structure.md](cnc-plotter-project-folder-structure.md)
